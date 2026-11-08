@@ -1,0 +1,9 @@
+# Private provisioning inputs and what provision.sh derives from them.
+unchained_provision/secrets.txt
+unchained_provision/.hatch_sess
+unchained_provision/runtime.sdkconfig.defaults
+
+# Python and macOS clutter.
+__pycache__/
+*.pyc
+.DS_Store
